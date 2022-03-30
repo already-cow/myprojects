@@ -1,0 +1,22 @@
+* {
+    font-family: 'Gowun Dodum', sans-serif;
+}
+
+
+.wrap {
+    width: 400px;
+    margin: auto;
+}
+
+.title {
+    text-align: center;
+    margin: 300px 0px 50px 0px;
+
+}
+
+.btn-del {
+    float: right;
+    color: black;
+    background-color: transparent;
+    border: none;
+}
